@@ -1,4 +1,4 @@
-"homepage": "https://github.com/HuntleyWeb-Technologies/HuntleyWeb-Technologies.io"
+"homepage":"https://github.com/HuntleyWeb-Technologies/HuntleyWeb-Technologies.io"
 
 "scripts":{
      "predeploy": "npm run build",
